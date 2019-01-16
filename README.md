@@ -1,9 +1,9 @@
 # ConfigBackup
-Backup for custom config-files of  some common apps.
 
-***NOTE: Before using, please make backups for your own original config-files.***
+Backup for custom config files of some common used softwares.
 
----
-## Keil Dark Style
-* For Keil v5.
-* Directory path: "..Keil_v5\UV4\global.prop"
+为某些常用软件的配置文档做备份。
+
+***NOTE: If you have an operation that overwrites the original document, please make a backup.***
+
+***注意：若需要覆盖原文档，则请做好备份。***
